@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATEGORY>
+  <KyNang>
+    <name>Kỷ luật tự giác</name>
+    <hinh>/image/book4.jpg</hinh>
+    <price>89.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Bạn đắt giá bao nhiêu?</name>
+    <hinh>/image/book13.jpg</hinh>
+    <price>88.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Tâm lý học hành vi</name>
+    <hinh>/image/book6.jpg</hinh>
+    <price>69.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Càng kỷ luật càng tự do</name>
+    <hinh>/image/book16.jpg</hinh>
+    <price>92.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Ổn định hay tự do</name>
+    <hinh>/image/book17.jpg</hinh>
+    <price>66.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Đừng lựa chọn an nhàn khi còn trẻ</name>
+    <hinh>/image/book15.jpg</hinh>
+    <price>81.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Tư duy sâu</name>
+    <hinh>/image/book21.jpg</hinh>
+    <price>102.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Lấy người mình yêu, làm điều mình thích</name>
+    <hinh>/image/book1.jpg</hinh>
+    <price>72.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Nghệ thuật tập trung</name>
+    <hinh>/image/book22.jpg</hinh>
+    <price>95.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Hãy khiến tương lai biết ơn</name>
+    <hinh>/image/book27.jpg</hinh>
+    <price>88.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Tôi nghĩ mọi thứ sẽ ổn</name>
+    <hinh>/image/book28.jpg</hinh>
+    <price>55.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Rèn luyện tư duy phản biện</name>
+    <hinh>/image/book19.jpg</hinh>
+    <price>65.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Tôi quyết định sống cho chính tôi</name>
+    <hinh>/image/book29.jpg</hinh>
+    <price>105.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Hãy ngẩng đầu mà đi</name>
+    <hinh>/image/book32.jpg</hinh>
+    <price>85.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Điều tôi muốn nghe nhất</name>
+    <hinh>/image/book30.jpg</hinh>
+    <price>91.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Đời có bao nhiêu, hãy ở bên những người thú vị</name>
+    <hinh>/image/book2.jpg</hinh>
+    <price>84.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Sách đen - Cẩm nang tuyệt mật</name>
+    <hinh>/image/book7.jpg</hinh>
+    <price>74.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Hôm nay phải mở mang</name>
+    <hinh>/image/book8.jpg</hinh>
+    <price>63.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Những bức thư đạo đức</name>
+    <hinh>/image/book9.jpg</hinh>
+    <price>77.000đ</price>
+  </KyNang>
+  <KyNang>
+    <name>Phụ nữ độc lập tài chính</name>
+    <hinh>/image/book12.jpg</hinh>
+    <price>131.000đ</price>
+  </KyNang>
+</CATEGORY>

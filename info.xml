@@ -1,0 +1,52 @@
+﻿<root>
+  <sinhvien>
+    <id>1</id>
+    <mssv>K194111636</mssv>
+    <hoten>Trần Quốc Trưởng</hoten>
+    <ngaySinh>27/1/2001</ngaySinh>
+    <lop>K19411C</lop>
+    <gioiTinh>Nam</gioiTinh>
+    <hinh>truong.jpg</hinh>
+  </sinhvien>
+  
+  <sinhvien>
+    <id>2</id>
+    <mssv>12</mssv>
+    <hoten>Đặng Tiến Hưng</hoten>
+    <ngaySinh>27/1/2001</ngaySinh>
+    <lop>K19411C</lop>
+    <gioiTinh>Nam</gioiTinh>
+    <hinh>Tien Hung.jpg</hinh>
+  </sinhvien>
+  
+  <sinhvien>
+    <id>3</id>
+    <mssv>12</mssv>
+    <hoTen>Nguyễn Thị Hoài Thương</hoTen>
+    <ngaySinh>27/1/2001</ngaySinh>
+    <lop>K19411C</lop>
+    <gioiTinh>Nữ</gioiTinh>
+    <hinh>Hoai Thuong.jpg</hinh>
+  </sinhvien>
+  
+  <sinhvien>
+    <id>4</id>
+    <mssv>12</mssv>
+    <hoTen>Huỳnh Ngô Bích Tâm</hoTen>
+    <ngaySinh>27/1/2001</ngaySinh>
+    <lop>K19411C</lop>
+    <gioiTinh>Nữ</gioiTinh>
+    <hinh>Bich Tam.jpg</hinh>
+  </sinhvien>
+  
+  <sinhvien>
+    <id>5</id>
+    <mssv>12</mssv>
+    <hoTen>Lê Nguyên Nga</hoTen>
+    <ngaySinh>27/1/2001</ngaySinh>
+    <lop>K19411C</lop>
+    <gioiTinh>Nữ</gioiTinh>
+    <hinh>Nga Le.jpg</hinh>
+  </sinhvien>
+</root>
+

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATEGORY>
+  <XaHoi>
+    <name>Cơ thể tự chữa lành</name>
+    <hinh>/image/xh1.jpg</hinh>
+    <price>88.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Lịch sử của trà</name>
+    <hinh>/image/xh2.jpg</hinh>
+    <price>69.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Giao tiếp với thiên nhiên</name>
+    <hinh>/image/xh3.jpg</hinh>
+    <price>85.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Từ vô hình đến hữu hình</name>
+    <hinh>/image/xh4.jpg</hinh>
+    <price>63.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Câu chuyện cơ thể con người</name>
+    <hinh>/image/xh5.jpg</hinh>
+    <price>74.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Vũ trụ trong vỏ hạt dẻ</name>
+    <hinh>/image/xh6.jpg</hinh>
+    <price>102.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Trả lời ngắn gọn những câu hỏi lớn</name>
+    <hinh>/image/xh7.jpg</hinh>
+    <price>99.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Lược sử vạn vật</name>
+    <hinh>/image/xh8.jpg</hinh>
+    <price>132.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Tôn tử binh pháp</name>
+    <hinh>/image/xh9.jpg</hinh>
+    <price>88.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Bí ẩn mãi mãi là bí ẩn</name>
+    <hinh>/image/xh10.jpg</hinh>
+    <price>72.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Thành phố kỳ vĩ nhất thế giới</name>
+    <hinh>/image/xh11.jpg</hinh>
+    <price>81.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Gen vị kỷ</name>
+    <hinh>/image/xh12.jpg</hinh>
+    <price>92.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Linh hồn thế giới</name>
+    <hinh>/image/xh13.jpg</hinh>
+    <price>66.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>10 vạn câu hỏi vì sao?</name>
+    <hinh>/image/xh14.jpg</hinh>
+    <price>69.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Thuật tẩy não trong giáo dục</name>
+    <hinh>/image/xh15.png</hinh>
+    <price>65.000đ</price>
+  </XaHoi>
+  <XaHoi>
+    <name>Chữa lành ánh sáng bản thể</name>
+    <hinh>/image/xh16.jpg</hinh>
+    <price>78.000đ</price>
+  </XaHoi>
+  
+</CATEGORY>

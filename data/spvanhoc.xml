@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATEGORY>
+  <VanHoc>
+  <name>Có một ngày bố mẹ sẽ già đi</name>
+  <hinh>/image/vh1.jpg</hinh>
+  <price>88.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Chúng ta rồi sẽ hạnh phúc</name>
+    <hinh>/image/vh2.jpg</hinh>
+    <price>69.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Tiện nhân ở phố</name>
+    <hinh>/image/vh3.jpg</hinh>
+    <price>85.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Lặng yên cho nước chảy</name>
+    <hinh>/image/vh4.jpg</hinh>
+    <price>63.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Nếu biết trăm năm là hữu hạn</name>
+    <hinh>/image//vh5.jpg</hinh>
+    <price>74.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Thiên tài bên trái, kẻ điên bên phải</name>
+    <hinh>/image/vh6.jpg</hinh>
+    <price>102.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Trăm năm cô đơn</name>
+    <hinh>/image/vh7.jpg</hinh>
+    <price>99.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Về nhà với mẹ</name>
+    <hinh>/image/vh8.jpg</hinh>
+    <price>132.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Để yên cho bác sĩ "hiền"</name>
+    <hinh>/image/vh9.jpg</hinh>
+    <price>88.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Hai số phận</name>
+    <hinh>/image/vh10.jpg</hinh>
+    <price>81.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Biên niên cô đơn</name>
+    <hinh>/image/vh11.jpg</hinh>
+    <price>92.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Những đêm không ngủ</name>
+    <hinh>/image/vh12.jpg</hinh>
+    <price>66.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Chỉ về nhà để ngủ</name>
+    <hinh>/image/vh13.jpg</hinh>
+    <price>69.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Thế giới rộng lớn, lòng người chật hẹp</name>
+    <hinh>/image/vh14.jpg</hinh>
+    <price>65.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Ơ kìa! Tuổi thơ</name>
+    <hinh>/image//vh15.jpg</hinh>
+    <price>78.000đ</price>
+  </VanHoc>
+  <VanHoc>
+    <name>Ta bắt đầu cuộc đời mớ</name>
+    <hinh>/image/vh16.jpg</hinh>
+    <price>102.000đ</price>
+  </VanHoc>
+</CATEGORY>

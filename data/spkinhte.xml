@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATEGORY>
+  <KinhTe>
+  <name>Tâm lý học về tiền</name>
+  <hinh>/image/kt.b1.jpg</hinh>
+  <price>88.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Kinh tế học về tiền, ngân hàng và thị trường</name>
+    <hinh>/image/kt.b2.jpg</hinh>
+    <price>69.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Tâm lý thị trường chứng khoán</name>
+    <hinh>/image/kt.b3.jpg</hinh>
+    <price>85.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Người đàn ông đánh bại mọi thị trường</name>
+    <hinh>/image/kt.b5.jpg</hinh>
+    <price>63.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Nhà đầu tư giá trị</name>
+    <hinh>/image/kt.b6.png</hinh>
+    <price>74.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Nghệ thuật đầu tư</name>
+    <hinh>/image/kt.b7.jpg</hinh>
+    <price>102.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Dạy con làm giàu 1</name>
+    <hinh>/image/kt.b8.jpg</hinh>
+    <price>99.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Tiền đẻ ra tiền</name>
+    <hinh>/image/kt.b9.jpg</hinh>
+    <price>132.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Nghĩ giàu làm giàu</name>
+    <hinh>/image/kt.b10.jpg</hinh>
+    <price>88.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>7 phương pháp đầu tư</name>
+    <hinh>/image/kt.b11.jpg</hinh>
+    <price>81.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Chiến tranh tiền tệ</name>
+    <hinh>/image/kt.b12.jpg</hinh>
+    <price>92.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Làm giàu từ chứng khoán</name>
+    <hinh>/image/kt.b4.jpg</hinh>
+    <price>66.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Content bạc tỷ</name>
+    <hinh>/image/kt.b13.jpg</hinh>
+    <price>69.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Digital Marketing</name>
+    <hinh>/image/kt.b14.jpg</hinh>
+    <price>65.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Khởi nghiệp Online</name>
+    <hinh>/image/kt.b15.png</hinh>
+    <price>78.000đ</price>
+  </KinhTe>
+  <KinhTe>
+    <name>Nghệ thuật bán hàng bằng câu chuyện</name>
+    <hinh>/image/kt.b16.jpg</hinh>
+    <price>102.000đ</price>
+  </KinhTe>
+</CATEGORY>

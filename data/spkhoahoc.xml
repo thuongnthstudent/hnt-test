@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATEGORY>
+  <KhoaHoc>
+    <name>Một thiên tiểu thuyết</name>
+    <hinh>/image/kh1.jpg</hinh>
+    <price>88.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Nghệ thuật căn chỉnh tư thế yoga</name>
+    <hinh>/image/kh2.jpg</hinh>
+    <price>69.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Năng lượng</name>
+    <hinh>/image/kh3.jpg</hinh>
+    <price>85.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Các bài thuyết giảng trên đài</name>
+    <hinh>/image/kh4.jpg</hinh>
+    <price>63.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Những nhà khám phá</name>
+    <hinh>/image/kh5.jpg</hinh>
+    <price>74.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Giáo trình lịch sử nghệ thuật</name>
+    <hinh>/image/kh6.jpg</hinh>
+    <price>102.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Sinh học phân tử của tế bào</name>
+    <hinh>/image/kh7.jpg</hinh>
+    <price>99.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Tế bào gốc</name>
+    <hinh>/image/kh8.jpg</hinh>
+    <price>132.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Khoa học về sự sốn</name>
+    <hinh>/image/kh9.jpg</hinh>
+    <price>88.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Mạch học</name>
+    <hinh>/image/kh10.jpg</hinh>
+    <price>72.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Phương thang y học cổ truyền</name>
+    <hinh>/image/kh11.jpg</hinh>
+    <price>81.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Nhịn ăn khoa học</name>
+    <hinh>/image/kh12.jpg</hinh>
+    <price>92.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Ung thư</name>
+    <hinh>/image/kh13.jpg</hinh>
+    <price>66.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Thanh lọc não bộ</name>
+    <hinh>/image/kh14.jpg</hinh>
+    <price>69.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Hệ miễn dịch</name>
+    <hinh>/image/kh15.jpg</hinh>
+    <price>65.000đ</price>
+  </KhoaHoc>
+  <KhoaHoc>
+    <name>Ăn theo nhóm máu</name>
+    <hinh>/image/kh16.jpg</hinh>
+    <price>78.000đ</price>
+  </KhoaHoc>
+</CATEGORY>
